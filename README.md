@@ -1,129 +1,110 @@
 <div align="center">
 
-KARAN KUMAR SOUNDRAPANDIAN
+⚡ KARAN KUMAR SOUNDRAPANDIAN
 
-⚡ Electronics & Computer Engineering · Software · AI/ML · Data · Systems
+ECE Student · Software Builder · AI/ML Explorer · Professional Debugger
 
 <br>
 
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,react,nodejs,mongodb,mysql,docker,git,linux" />
+
+<br><br>
+
 <a href="https://github.com/karee-29">
-  <img src="https://img.shields.io/badge/GitHub-karee--29-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-karee--29-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://github.com/karee-29?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-13-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/13%20Repositories-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.thapar.edu/">
-  <img src="https://img.shields.io/badge/🎓_ECE-Thapar_Institute-4F46E5?style=for-the-badge">
+<img src="https://img.shields.io/badge/🎓%20Thapar-ECE-4F46E5?style=for-the-badge">
 </a>
 
 <br><br>
 
-Build → Break → Debug → Understand → Build Better
+I build things, break things, figure out why they broke, and occasionally remember to document them.
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+
+🧭 Navigation
+
+About · Stack · Projects · Lab · GitHub · Philosophy · Contact
+
+</div>
 
 👋 About Me
 
-I'm an Electronics & Computer Engineering student at Thapar Institute of Engineering & Technology who enjoys building things across software, AI/ML, data, systems and algorithms.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-I like going beyond making something work.
+$ whoami
 
-I want to understand what happens underneath the abstraction, why a system behaves the way it does, and how it can be improved.
+I'm Karan, an Electronics & Computer Engineering student at Thapar Institute of Engineering & Technology.
 
-⚡ Interests
+I enjoy working at the intersection of:
 
-Software Engineering
+🖥️ Software Engineering
 
-AI / ML
+🤖 AI / Machine Learning
 
-Data Analytics
-
-Systems
-
-Algorithms
-
-Networking
-
-Product Engineering
-
-Optimization
-
-</td>
-
-<td width="50%" valign="top">
-
-🔭 Current Status
-
-MODE
-────────────────────
-Learning       ████████████████████
-Building       ██████████████████░░
-Experimenting  ████████████████░░░░
-Debugging      ████████████████████
-Sleeping       ███░░░░░░░░░░░░░░░░░
-
-Currently Exploring
-
-🧠 Data Structures & Algorithms
-
-🤖 Machine Learning
-
-✨ Generative AI
-
-🌐 Full Stack Development
+📊 Data & Analytics
 
 🌐 Systems & Networking
 
-⚙️ Optimization
+⚙️ Algorithms & Optimization
 
-📊 Data Analytics
+🚀 Product Engineering
+
+I like understanding systems from the inside out — not just which button to press, but what happens after the button is pressed.
+
+</td>
+
+<td width="45%" valign="top">
+
+🧠 Current Brain State
+
+┌──────────────────────────┐
+│       KAREN.EXE          │
+├──────────────────────────┤
+│                          │
+│ Learning      ████████░  │
+│ Building      █████████  │
+│ Debugging     █████████  │
+│ Curiosity     ██████████ │
+│ Sleep         ██░░░░░░░  │
+│                          │
+├──────────────────────────┤
+│ STATUS: ONLINE           │
+│ BUGS: EXPECTED           │
+│ COFFEE: OPTIONAL*        │
+└──────────────────────────┘
+
+*results may vary
 
 </td>
 </tr>
 </table>
 
-🧰 Tech Stack
+🧰 The Toolbox
 
-<table>
-<tr>
-<td align="center" width="25%">
+<div align="center">
 
 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript" />
 
-</td>
-<td align="center" width="25%">
+<br><br>
 
-🌐 Web
+🌐 Web · Backend · Databases
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql,postgres" />
 
-</td>
-<td align="center" width="25%">
+<br><br>
 
-🗄️ Data
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-
-</td>
-<td align="center" width="25%">
-
-🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-🤖 AI / ML
+🤖 AI · ML · Data
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,jupyter" />
 
@@ -131,9 +112,17 @@ Currently Exploring
 
 NumPy · Pandas · Scikit-learn · Statistics · EDA · Computer Vision
 
+<br><br>
+
+🛠️ Engineering
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,vercel" />
+
 </div>
 
-🚀 Projects
+🚀 Things I've Built
+
+A small collection of projects where theory meets implementation.
 
 <table>
 <tr>
@@ -141,20 +130,18 @@ NumPy · Pandas · Scikit-learn · Statistics · EDA · Computer Vision
 
 🧠 Customer Churn Prediction
 
-A machine-learning workflow for identifying customers at risk of churn and translating model output into retention-oriented insights.
+Machine Learning · Analytics
 
-Stack
+Predicting customer churn and turning model output into useful retention insights.
 
 Python Pandas NumPy Scikit-learn
 
-Focus
+Explored
 
 EDA · preprocessing · feature engineering · classification · evaluation
 
-<br>
-
 <a href="https://github.com/karee-29/customer-churn-prediction">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/→%20VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -163,20 +150,18 @@ EDA · preprocessing · feature engineering · classification · evaluation
 
 🛒 Retail Customer Intelligence
 
-Customer and transaction analytics focused on segmentation, purchasing behaviour, customer value and actionable retail insights.
+Data · Customer Analytics
 
-Stack
+Understanding customer segments, purchasing behaviour and customer value.
 
 Python Pandas NumPy Jupyter
 
-Focus
+Explored
 
 Segmentation · RFM · behaviour · customer value · recommendations
 
-<br>
-
 <a href="https://github.com/karee-29/advanced-retail-customer-intelligence-platform">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/→%20VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -187,20 +172,18 @@ Segmentation · RFM · behaviour · customer value · recommendations
 
 ⚡ EV Two-Wheeler Market Entry
 
-A quantitative and strategic exploration of the electric two-wheeler market.
+Data · Strategy · Market Analysis
 
-Stack
+A quantitative exploration of the EV two-wheeler market with competitive and customer-oriented analysis.
 
-Python Pandas Data Analysis Market Research
+Python Pandas Market Research
 
-Focus
+Explored
 
-Market analysis · competition · customer segments · positioning · strategy
-
-<br>
+Competition · customer segments · positioning · market entry
 
 <a href="https://github.com/karee-29/ev-two-wheeler-market-entry-strategy">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/→%20VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -209,20 +192,18 @@ Market analysis · competition · customer segments · positioning · strategy
 
 ☁️ CI/CD Cloud Deployment
 
-An engineering project focused on automated testing, delivery and deployment workflows.
+DevOps · Automation
 
-Stack
+An engineering project around automated validation, delivery and deployment.
 
 Python Git GitHub Actions CI/CD
 
-Focus
+Explored
 
-Automation · validation · deployment · version control
-
-<br>
+Automation · testing · deployment · version control
 
 <a href="https://github.com/karee-29/production-grade-CI-CD-cloud-deployment-platform">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/→%20VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -233,20 +214,18 @@ Automation · validation · deployment · version control
 
 🌐 Network Packet Analyzer
 
-A simplified Wireshark-style packet analysis project for understanding network communication at packet level.
+Systems · Networking
 
-Stack
+A simplified packet-analysis project for understanding communication at packet level.
 
 Python TCP/IP Networking
 
-Focus
+Explored
 
 Packets · protocols · network layers · transport behaviour
 
-<br>
-
 <a href="https://github.com/karee-29/network-packet-analyzer">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/→%20VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github">
 </a>
 
 </td>
@@ -255,208 +234,138 @@ Packets · protocols · network layers · transport behaviour
 
 🧠 Neural Network From Scratch
 
-An implementation-focused project for understanding the mechanics behind neural-network training.
+AI · Mathematics
 
-Stack
+Building the fundamentals from the ground up instead of treating ML libraries like magic.
 
 Python Mathematics Neural Networks
 
-Focus
+Explored
 
 Forward propagation · training mechanics · experimentation
 
-<br>
-
 <a href="https://github.com/karee-29/neural-network-from-scratch">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/→%20VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github">
 </a>
 
 </td>
 </tr>
 </table>
 
-🧩 Engineering Areas
+🧪 Current Lab
 
 <table>
 <tr>
-<td align="center">
+<td width="33%" align="center" valign="top">
 
-🖥️ SOFTWARE
-
-Full Stack
-
-Backend Systems
-
-REST APIs
-
-Databases
-
-OOP
-
-</td>
-
-<td align="center">
-
-🤖 AI / ML
-
-Classical ML
-
-Neural Networks
-
-Generative AI
-
-Computer Vision
-
-Model Evaluation
-
-</td>
-
-<td align="center">
-
-📊 DATA
-
-EDA
-
-SQL
-
-Customer Analytics
-
-Statistics
-
-Business Intelligence
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-🌐 SYSTEMS
-
-Computer Networks
-
-TCP/IP
-
-OSI Model
-
-Operating Systems
-
-Packet Analysis
-
-</td>
-
-<td align="center">
-
-⚙️ ALGORITHMS
+📚 LEARNING
 
 DSA
+Machine Learning
+Generative AI
+Software Engineering
+Systems
+Networking
 
-Graphs
+</td>
 
-Shortest Paths
+<td width="33%" align="center" valign="top">
 
-MST
+🏗️ BUILDING
 
+AI Applications
+Analytics Projects
+Full-Stack Systems
+Algorithm Visualizers
+Networking Tools
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+🔬 EXPLORING
+
+LLM Applications
+Computer Vision
 Optimization
-
-</td>
-
-<td align="center">
-
-🚀 PRODUCT
-
-Problem Solving
-
-Product Engineering
-
-Strategy
-
-Market Analysis
-
-Real-world Systems
+Cloud & DevOps
+Applied Analytics
 
 </td>
 </tr>
 </table>
 
-🔬 Current Lab
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-📚 Learning
-
-learning:
-  - Data Structures & Algorithms
-  - Machine Learning
-  - Generative AI
-  - Software Engineering
-  - Systems & Networking
-
-🏗️ Building
-
-building:
-  - AI-powered applications
-  - Data & analytics projects
-  - Full-stack systems
-  - Algorithm visualizations
-  - Networking projects
-
-</td>
-
-<td width="50%" valign="top">
-
-🧪 Experimenting
-
-experimenting_with:
-  - LLM applications
-  - Computer Vision
-  - Optimization
-  - Cloud & DevOps
-  - Applied analytics
-
-🐛 Debugging
-
-questions:
-  - "Why does it work on my machine?"
-  - "Why did that break?"
-  - "Why is the model doing THAT?"
-  - "Where did the bug come from?"
-
-</td>
-</tr>
-</table>
-
-⚙️ Developer.exe
+🧩 My Engineering Map
 
 <div align="center">
 
-┌────────────────────────────────────────────────────────────┐
-│                     DEVELOPER.EXE                          │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  INPUT        → Interesting Problem                        │
-│  PROCESSING   → Too Much Coffee                            │
-│  ALGORITHM    → Build → Break → Debug                      │
-│  COMPILER     → "Why is this not working?"                 │
-│  DEBUGGER     → "Ah... there it is."                       │
-│  OUTPUT       → Something That Actually Works              │
-│                                                            │
-│  ERROR 404    → Sleep Not Found                            │
-│  STATUS       → Learning...                                │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
+<table>
+<tr>
+<th>🖥️ SOFTWARE</th>
+<th>🤖 AI / ML</th>
+<th>📊 DATA</th>
+</tr>
+<tr>
+<td>Full Stack<br>Backend<br>REST APIs<br>Databases<br>OOP</td>
+<td>Classical ML<br>Neural Networks<br>GenAI<br>Computer Vision<br>Evaluation</td>
+<td>EDA<br>SQL<br>Statistics<br>Customer Analytics<br>BI</td>
+</tr>
+<tr>
+<th>🌐 SYSTEMS</th>
+<th>⚙️ ALGORITHMS</th>
+<th>🚀 PRODUCT</th>
+</tr>
+<tr>
+<td>Networking<br>TCP/IP<br>OSI<br>Operating Systems<br>Packet Analysis</td>
+<td>DSA<br>Graphs<br>Shortest Paths<br>MST<br>Optimization</td>
+<td>Problem Solving<br>Product Engineering<br>Strategy<br>Market Analysis<br>Real-world Systems</td>
+</tr>
+</table>
 
 </div>
 
-📊 GitHub Activity
+🖥️ Terminal Session
+
+$ ./karan
+
+[INFO] Initializing developer...
+[ OK ] Curiosity loaded
+[ OK ] Python loaded
+[ OK ] C++ loaded
+[ OK ] JavaScript loaded
+[ OK ] Git loaded
+[ OK ] Machine Learning loaded
+[ OK ] Networking loaded
+
+[RUN ] Finding interesting problems...
+[RUN ] Building something...
+[WARN] Something broke.
+
+$ ./debug
+
+Searching...
+Searching...
+Searching...
+
+[ OK ] Found the bug.
+
+$ ./build --again
+
+████████████████████████████████ 100%
+
+[ OK ] Works.
+
+$ ./build --better
+
+∞
+
+📊 GitHub Dashboard
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="330" alt="GitHub Statistics">
-&nbsp;&nbsp;&nbsp;
-<img src="./profile/languages.svg" width="330" alt="Languages">
+<img src="./profile/stats.svg" width="360" alt="GitHub Statistics">
+&nbsp;&nbsp;
+<img src="./profile/languages.svg" width="360" alt="Top Languages">
 
 <br><br>
 
@@ -470,135 +379,157 @@ questions:
 
 🧠 Engineering Philosophy
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center">
 
-01
+01 · UNDERSTAND
 
-Learn
-
-Understand the fundamentals before hiding behind abstractions.
+Don't blindly use the abstraction.
 
 </td>
 <td align="center">
 
-02
+02 · BUILD
 
-Build
-
-Turn the idea into something real.
+Turn ideas into working systems.
 
 </td>
 <td align="center">
 
-03
+03 · BREAK
 
-Break
-
-Push it until something fails.
+Find the edge cases.
 
 </td>
 <td align="center">
 
-04
+04 · IMPROVE
 
-Improve
-
-Debug, understand and build it better.
+Debug. Learn. Iterate.
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br>
 
-Learn → Build → Break → Debug → Understand → Improve → 🔁
+       LEARN
+         ↓
+       BUILD
+         ↓
+       BREAK
+         ↓
+       DEBUG
+         ↓
+    UNDERSTAND
+         ↓
+      IMPROVE
+         ↓
+         🔁
 
-Don't just use the abstraction. Understand what's underneath it.
-
-</div>
-
-🗺️ Developer Roadmap
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">📚<br><b>LEARN</b><br>Fundamentals</td>
-<td>→</td>
-<td align="center">🛠️<br><b>BUILD</b><br>Projects</td>
-<td>→</td>
-<td align="center">💥<br><b>BREAK</b><br>Find limits</td>
-<td>→</td>
-<td align="center">🐛<br><b>DEBUG</b><br>Understand</td>
-<td>→</td>
-<td align="center">🚀<br><b>IMPROVE</b><br>Ship better</td>
-</tr>
-</table>
+The goal isn't to know everything. It's to know how to figure things out.
 
 </div>
 
-🧪 Random Developer Facts
+🐛 Known Issues
 
-<table>
-<tr>
-<td align="center">🧩<br><b>Problem Solver</b><br><sub>I enjoy problems that initially look unnecessarily complicated.</sub></td>
-<td align="center">🔍<br><b>Under the Hood</b><br><sub>I like knowing what happens underneath the abstraction.</sub></td>
-<td align="center">🛠️<br><b>Builder</b><br><sub>I'd rather build a working system than only read about one.</sub></td>
-</tr>
-<tr>
-<td align="center">🐛<br><b>Bugs</b><br><sub>Basically unpaid teachers.</sub></td>
-<td align="center">☕<br><b>Coffee</b><br><sub>Suspiciously involved in the development process.</sub></td>
-<td align="center">🔁<br><b>Iteration</b><br><sub>Build → Break → Debug → Repeat.</sub></td>
-</tr>
-</table>
+┌─────────────────────────────────────────────────────┐
+│                 BUG TRACKER                         │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  [OPEN]   Needs more projects                       │
+│  [OPEN]   DSA skills loading...                    │
+│  [OPEN]   Sleep optimisation failed                │
+│  [OPEN]   "It works on my machine"                 │
+│  [WIP]    Becoming a better engineer               │
+│                                                     │
+│  Priority:                                          │
+│  ████████████████████████████████████████  HIGH     │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 
-📈 What I'm Working Towards
+🎯 2026 Mission
+
+[████████████████████░░░░░░░░░░░░░░░░░░░]  BUILD
+
+Targets:
+├── Become stronger at DSA
+├── Build deeper ML fundamentals
+├── Ship better full-stack systems
+├── Understand systems & networking
+├── Build projects that solve real problems
+├── Explore AI engineering
+└── Keep learning across domains
+
+☕ Developer Survival Kit
 
 <div align="center">
 
-                         SOFTWARE
-                            │
-              ┌─────────────┼─────────────┐
-              │             │             │
-              ▼             ▼             ▼
-           SYSTEMS         DATA         AI / ML
-              │             │             │
-              └─────────────┼─────────────┘
-                            │
-                            ▼
-                    PRODUCT THINKING
-                            │
-                            ▼
-                    REAL-WORLD SYSTEMS
+🧠
+
+🛠️
+
+🐛
+
+☕
+
+Curiosity
+
+VS Code
+
+Bugs
+
+Coffee
+
+Questions
+
+Git
+
+Debugger
+
+Snacks
+
+Documentation
+
+Terminal
+
+Stack Overflow*
+
+More Coffee
+
+<sub>*and increasingly, reading the actual documentation</sub>
 
 </div>
 
-I want to become the kind of engineer who can move comfortably between:
-
-problem → idea → architecture → implementation → data → deployment → improvement
-
-🔗 Find Me
+🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/karee-29">
-<img src="https://img.shields.io/badge/GitHub-karee--29-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-karee--29-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://github.com/karee-29?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Projects-Explore-7C3AED?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
+<br>
+
 <div align="center">
 
-while(alive) { learn(); build(); breakThings(); repeat(); }
+while(alive) { learn(); build(); debug(); repeat(); }
 
 <br>
 
-Code · Learn · Build · Repeat
+Thanks for visiting.
+
+<br>
+
+Code · Systems · AI · Data · Curiosity
 
 </div>
