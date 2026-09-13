@@ -1,0 +1,4 @@
+README.md
+UPLOAD_GUIDE.txt
+CONTENTS.txt
+.github/workflows/profile-assets.yml

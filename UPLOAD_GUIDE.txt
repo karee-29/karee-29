@@ -1,0 +1,44 @@
+KARAN KUMAR SOUNDRAPANDIAN — GITHUB PROFILE
+
+ZIP CONTENTS
+
+README.md
+UPLOAD_GUIDE.txt
+.github/
+  workflows/
+    profile-assets.yml
+
+The .github directory is intentionally at the ROOT of this ZIP.
+It is not nested inside another folder.
+
+GitHub Actions requires workflow files to be stored in:
+.github/workflows/
+
+UPLOAD
+
+1. Open:
+   https://github.com/karee-29/karee-29
+
+2. Upload README.md to the repository root.
+
+3. Upload the .github folder exactly as included here.
+   Inside it must be:
+   .github/workflows/profile-assets.yml
+
+4. Commit the changes.
+
+5. Open the repository's Actions tab.
+
+6. Run "Update Profile Assets" once manually.
+
+7. Refresh:
+   https://github.com/karee-29
+
+The workflow creates:
+profile/stats.svg
+profile/languages.svg
+profile/activity.svg
+profile/github-contribution-grid-snake.svg
+profile/github-contribution-grid-snake-dark.svg
+
+Do not rename .github. GitHub only discovers Actions workflows from .github/workflows.
