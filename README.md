@@ -2,7 +2,7 @@
 
 ⚡ KARAN KUMAR SOUNDRAPANDIAN
 
-ECE Student · Software Builder · AI/ML Explorer · Professional Debugger
+ENC Student · Software Builder · AI/ML Explorer · Professional Debugger
 
 <br>
 
